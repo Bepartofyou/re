@@ -121,7 +121,6 @@
     <ClCompile Include="..\..\src\ice\chklist.c" />
     <ClCompile Include="..\..\src\ice\comp.c" />
     <ClCompile Include="..\..\src\ice\connchk.c" />
-    <ClCompile Include="..\..\src\ice\gather.c" />
     <ClCompile Include="..\..\src\ice\ice.c" />
     <ClCompile Include="..\..\src\ice\icem.c" />
     <ClCompile Include="..\..\src\ice\icesdp.c" />
