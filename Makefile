@@ -56,7 +56,8 @@ include $(MODMKS)
 OBJS	?= $(patsubst %.c,$(BUILD)/%.o,$(SRCS))
 
 
-all: $(SHARED) $(STATIC)
+all: $(STATIC)
+#all: $(SHARED) $(STATIC)
 
 
 -include $(OBJS:.o=.d)
